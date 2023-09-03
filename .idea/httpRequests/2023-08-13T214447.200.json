@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "price": 1200.0,
+    "rooms": 2,
+    "size": 70,
+    "type": "FLAT",
+    "state": "AVAILABLE"
+  },
+  {
+    "id": 2,
+    "price": 1500.0,
+    "rooms": 3,
+    "size": 60,
+    "type": "FLAT",
+    "state": "AVAILABLE"
+  },
+  {
+    "id": 3,
+    "price": 2000.0,
+    "rooms": 3,
+    "size": 80,
+    "type": "FLAT",
+    "state": "AVAILABLE"
+  }
+]

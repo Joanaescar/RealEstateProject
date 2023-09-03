@@ -1,0 +1,75 @@
+POST http://localhost:8080/api/house
+Content-Type: application/json
+Content-Length: 22
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Cookie: JSESSIONID=556E69133DBB466E5DBE3BDC847C97AA
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "price": "10000"
+}
+
+<> 2023-08-14T224141.200.json
+
+###
+
+POST http://localhost:8080/api/house
+Content-Type: application/json
+Content-Length: 22
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Cookie: JSESSIONID=556E69133DBB466E5DBE3BDC847C97AA
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "price": "10000"
+}
+
+<> 2023-08-14T224105.200.json
+
+###
+
+GET http://localhost:8080/api/house
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Cookie: JSESSIONID=556E69133DBB466E5DBE3BDC847C97AA
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-08-13T214610.200.json
+
+###
+
+GET http://localhost:8080/api/house
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Cookie: JSESSIONID=556E69133DBB466E5DBE3BDC847C97AA
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-08-13T214447.200.json
+
+###
+
+GET http://localhost:8080/api/house
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Cookie: JSESSIONID=556E69133DBB466E5DBE3BDC847C97AA
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+###
+
+GET http://localhost:8080/api/house
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Cookie: JSESSIONID=556E69133DBB466E5DBE3BDC847C97AA
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+###
+
+GET http://localhost:8080/api/house
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+###
+
